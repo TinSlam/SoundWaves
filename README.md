@@ -10,7 +10,7 @@ Load the scene and play the simulation. You can use the inspector to play around
 <h3>Do not have Unity installed?</h3>
 There are executables for Windows and Linux available in the <b>Executables</b> directory. However, you cannot access the inspector to
 change the parameters of the model and the sound sources.<br />
-If interested in the code, you can find the scripts inside <b>scripts</b> folder.<br />
+If interested in the code, you can find the scripts inside <b>Scripts</b> folder.<br />
 
 <h3>Known Bugs</h3>
 (I) Discretization effects for diffraction<br />
