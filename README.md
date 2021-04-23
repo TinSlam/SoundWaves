@@ -1,7 +1,7 @@
 # SoundWaves
 A Wave-Based Simulation of Sound
 
-To run the simulation, download the unitypackage file and import it using <b>Assets->Import->Custom Package</b>.<br />
+To run the simulation, download the unitypackage file and import it into Unity using <b>Assets->Import->Custom Package</b>.<br />
 Load the scene and play the simulation. You can use the inspector to play around with the parameters.
 
 <b>SoundWaves Gameobject:</b> Parameters of the simulation<br />
